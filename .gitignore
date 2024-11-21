@@ -1,6 +1,6 @@
 # cfitsio
-./cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/*
-./cfitsio/cfitsio-4.1.0/out
+cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/*
+cfitsio/cfitsio-4.1.0/fuzz/out
 
 # fuzzgoat
-./fuzzgoat/fuzz/out
+fuzzgoat/fuzz/out

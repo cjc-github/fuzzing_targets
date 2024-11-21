@@ -1,6 +1,0 @@
-# environment variables:
-AFL_CUSTOM_INFO_PROGRAM=./FPack
-AFL_CUSTOM_INFO_PROGRAM_ARGV=-L @@
-AFL_CUSTOM_INFO_OUT=out/default
-# command line:
-'afl-fuzz' '-i' 'in' '-o' 'out' '-t' '1000+' '-m' 'none' './FPack' '-L' '@@'
