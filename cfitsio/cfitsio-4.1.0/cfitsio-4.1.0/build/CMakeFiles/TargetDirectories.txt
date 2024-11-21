@@ -1,0 +1,13 @@
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/cfitsio.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/TestProg.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/cookbook.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/FPack.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/Funpack.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/Fitscopy.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/test.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/edit_cache.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/rebuild_cache.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/list_install_components.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/install.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/install/local.dir
+/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build/CMakeFiles/install/strip.dir

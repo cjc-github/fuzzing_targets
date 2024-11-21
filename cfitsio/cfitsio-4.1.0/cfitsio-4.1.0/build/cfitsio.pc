@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/
+
+Name: cfitsio
+Description: FITS File Subroutine Library
+URL: https://heasarc.gsfc.nasa.gov/fitsio/
+Version: 4.1.0
+Libs: -L${libdir} -lcfitsio  -lz
+Libs.private: -lm
+Cflags: -I${includedir}

@@ -1,0 +1,1 @@
+/usr/local/bin/afl-cc -fsanitize=address -w -rdynamic CMakeFiles/Fitscopy.dir/fitscopy.c.o -o Fitscopy  -Wl,-rpath,/home/test/Fuzzer/github/fuzzing_targets/cfitsio/cfitsio-4.1.0/cfitsio-4.1.0/build: libcfitsio.so.4.1.0 -lm -lz 
